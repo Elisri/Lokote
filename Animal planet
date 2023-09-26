@@ -553,11 +553,11 @@ http://hidra.live:80/roxvxesu/oBIz62a0y0/313074.ts
 http://hidra.live:80/roxvxesu/oBIz62a0y0/312798.ts
 #EXTINF: -1 tvg-name="A3 Series HD (MX)" tvg-logo="https://img.tvcl.xyz/internacionales/a3.png" group-title="Entretención", A3 Series HD (MX)
 http://hidra.live:80/roxvxesu/oBIz62a0y0/302608.ts
-#EXTINF: -1 tvg-id="CL - Las Estrellas" tvg-name="Las Estrellas FHD (CL*)" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Entretención",Estrellas internacional
+#EXTINF: -1 tvg-id="CL - Las Estrellas" tvg-name="Las Estrellas FHD (CL*)" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Mexico",Estrellas internacional
 http://hidra.live:80/roxvxesu/oBIz62a0y0/313173.ts
-#EXTINF: -1 tvg-name="Las Estrellas HD (MX)" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Entretención", Las Estrellas(MX)
+#EXTINF: -1 tvg-name="Las Estrellas HD (MX)" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Mexico", Las Estrellas(MX)
 http://hidra.live:80/roxvxesu/oBIz62a0y0/302641.ts
-#EXTINF: -1 tvg-id="Canal Aprende" tvg-name="Las Estrellas -1HRs HD (MX)" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Entretención", Las Estrellas -1HRs(MX)
+#EXTINF: -1 tvg-id="Canal Aprende" tvg-name="Las Estrellas -1HRs HD (MX)" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Mexico", Las Estrellas -1HRs(MX)
 http://hidra.live:80/roxvxesu/oBIz62a0y0/304504.ts
 #EXTINF: -1 tvg-id="LifetimePanregional.us" tvg-name="Lifetime SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An7mzDmLIO5nzoFS0oIqvPpPEDjL-X9WMuG3F0Q43LEIe.png" group-title="Entretención", Lifetime SD (CL*)
 http://hidra.live:80/roxvxesu/oBIz62a0y0/313102.ts
