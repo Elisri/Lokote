@@ -471,46 +471,24 @@ http://hidra.live:80/roxvxesu/oBIz62a0y0/333221.ts
 http://hidra.live:80/roxvxesu/oBIz62a0y0/333222.ts
 #EXTINF: -1 tvg-name=".24/7 Gran Hermano Chile en Vivo" tvg-logo="http://puntoz.xyz/LOGOS/granhermanochile.png" group-title="Canales 24/7", .24/7 Gran Hermano Chile en Vivo
 http://hidra.live:80/roxvxesu/oBIz62a0y0/333225.ts
-#EXTINF: -1 tvg-id="DiscoveryKidsChile.cl" tvg-name="Discovery Kids SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BV4cdr1kdIv8WMWAMbDAoim.png" group-title="Infantiles", Discovery Kids SD (CL*)
-http://hidra.live:80/roxvxesu/oBIz62a0y0/313156.ts
-#EXTINF: -1 tvg-id="DiscoveryKidsChile.cl" tvg-name="Discovery Kids FHD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BV4cdr1kdIv8WMWAMbDAoim.png" group-title="Infantiles", Discovery Kids FHD (CL*)
-http://hidra.live:80/roxvxesu/oBIz62a0y0/313151.ts
 #EXTINF: -1 tvg-id="Canal Aprende" tvg-name="Discovery Kids HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/dk.png" group-title="Infantiles", Discovery Kids HD (MX)
 http://hidra.live:80/roxvxesu/oBIz62a0y0/302625.ts
 #EXTINF: -1 tvg-id="DiscoveryKidsChile.cl" tvg-name="Discovery Kids FHD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BV4cdr1kdIv8WMWAMbDAoim.png" group-title="Infantiles", Discovery Kids FHD (LAT)
 http://hidra.live:80/roxvxesu/oBIz62a0y0/34784.ts
-#EXTINF: -1 tvg-id="CartoonNetworkMexico.mx" tvg-name="Cartoon Network SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXgGW3gzd8rBUa8e8fB529v.png" group-title="Infantiles", Cartoon Network SD (CL*)
-http://hidra.live:80/roxvxesu/oBIz62a0y0/313159.ts
-#EXTINF: -1 tvg-id="CartoonNetworkPacific.us" tvg-name="Cartoon Network FHD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXgGW3gzd8rBUa8e8fB529v.png" group-title="Infantiles", Cartoon Network FHD (CL*)
-http://hidra.live:80/roxvxesu/oBIz62a0y0/313150.ts
 #EXTINF: -1 tvg-id="Canal Aprende" tvg-name="Cartoon Network HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/cn.png" group-title="Infantiles", Cartoon Network HD (MX)
 http://hidra.live:80/roxvxesu/oBIz62a0y0/302621.ts
 #EXTINF: -1 tvg-id="CO - Cartoon Network" tvg-name="Cartoon Network SD (LAT)" tvg-logo="https://img.tvcl.xyz/infantiles/cn.png" group-title="Infantiles", Cartoon Network SD (LAT)
 http://hidra.live:80/roxvxesu/oBIz62a0y0/34754.ts
 #EXTINF: -1 tvg-id="CO - Cartoon Network" tvg-name="Cartoon Network FHD (LAT)" tvg-logo="https://img.tvcl.xyz/infantiles/cn.png" group-title="Infantiles", Cartoon Network FHD (LAT)
 http://hidra.live:80/roxvxesu/oBIz62a0y0/34756.ts
-#EXTINF: -1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BU7vgzqVupa-gcdqOcZsRaq.png" group-title="Infantiles", Disney Channel SD (CL*)
-http://hidra.live:80/roxvxesu/oBIz62a0y0/313157.ts
-#EXTINF: -1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel FHD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BU7vgzqVupa-gcdqOcZsRaq.png" group-title="Infantiles", Disney Channel FHD (CL*)
-http://hidra.live:80/roxvxesu/oBIz62a0y0/313152.ts
 #EXTINF: -1 tvg-id="Canal Aprende" tvg-name="Disney Channel HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/dc.png" group-title="Infantiles", Disney Channel HD (MX)
 http://hidra.live:80/roxvxesu/oBIz62a0y0/302631.ts
-#EXTINF: -1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel SD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BU7vgzqVupa-gcdqOcZsRaq.png" group-title="Infantiles", Disney Channel SD (LAT)
-http://hidra.live:80/roxvxesu/oBIz62a0y0/34759.ts
-#EXTINF: -1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel FHD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BU7vgzqVupa-gcdqOcZsRaq.png" group-title="Infantiles", Disney Channel FHD (LAT)
-http://hidra.live:80/roxvxesu/oBIz62a0y0/34761.ts
 #EXTINF: -1 tvg-id="DisneyJuniorSouth.us" tvg-name="Disney Junior SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An8FVAWecthl7SVKpXd70v02uTr7zWbpHYZEYUPdGVyNg.png" group-title="Infantiles", Disney Junior SD (CL*)
 http://hidra.live:80/roxvxesu/oBIz62a0y0/313158.ts
 #EXTINF: -1 tvg-id="MX - Disney Junior" tvg-name="Disney Junior HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/dj.png" group-title="Infantiles", Disney Junior HD (MX)
 http://hidra.live:80/roxvxesu/oBIz62a0y0/302632.ts
-#EXTINF: -1 tvg-id="DisneyJuniorSouth.us" tvg-name="Disney Junior SD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXzhG1aZcqC7D5To9pYSG7Z.png" group-title="Infantiles", Disney Junior SD (LAT)
-http://hidra.live:80/roxvxesu/oBIz62a0y0/34767.ts
 #EXTINF: -1 tvg-id="MX - Disney Junior" tvg-name="Disney Junior FHD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/dj.png" group-title="Infantiles", Disney Junior FHD (MX)
 http://hidra.live:80/roxvxesu/oBIz62a0y0/34766.ts
-#EXTINF: -1 tvg-id="CL - Nickelodeon" tvg-name="Nickelodeon SD (CL*)" tvg-logo="https://img.tvcl.xyz/infantiles/nick.png" group-title="Infantiles", Nickelodeon SD (CL*)
-http://hidra.live:80/roxvxesu/oBIz62a0y0/313163.ts
-#EXTINF: -1 tvg-id="CL - Nickelodeon" tvg-name="Nickelodeon FHD (CL*)" tvg-logo="https://img.tvcl.xyz/infantiles/nick.png" group-title="Infantiles", Nickelodeon FHD (CL*)
-http://hidra.live:80/roxvxesu/oBIz62a0y0/313153.ts
 #EXTINF: -1 tvg-id="MX - Nick" tvg-name="Nickelodeon HD (MX)" tvg-logo="https://img.tvcl.xyz/brasil/nick.png" group-title="Infantiles", Nickelodeon HD (MX)
 http://hidra.live:80/roxvxesu/oBIz62a0y0/302710.ts
 #EXTINF: -1 tvg-id="CO - Nick" tvg-name="Nickelodeon SD (LAT)" tvg-logo="https://img.tvcl.xyz/infantiles/nick.png" group-title="Infantiles", Nickelodeon SD (LAT)
@@ -525,8 +503,6 @@ http://hidra.live:80/roxvxesu/oBIz62a0y0/302712.ts
 http://hidra.live:80/roxvxesu/oBIz62a0y0/34778.ts
 #EXTINF: -1 tvg-id="MX - Nick Jr." tvg-name="Nick JR FHD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/nickjr.png" group-title="Infantiles", Nick JR FHD (MX)
 http://hidra.live:80/roxvxesu/oBIz62a0y0/34779.ts
-#EXTINF: -1 tvg-id="TeenNickLatinAmerica.us" tvg-name="TeenNick SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An1pgVWRgWdia13pI8fG4nEdGzyWannNyY2PucjzJbqvM.png" group-title="Infantiles", TeenNick SD (CL*)
-http://hidra.live:80/roxvxesu/oBIz62a0y0/313168.ts
 #EXTINF: -1 tvg-name="TeenNick (MX)" tvg-logo="https://img.tvcl.xyz/usa/teennick.png" group-title="Infantiles", TeenNick (MX)
 http://hidra.live:80/roxvxesu/oBIz62a0y0/313028.ts
 #EXTINF: -1 tvg-id="A.and.E.cl" tvg-name="TeenNick FHD (LAT)" tvg-logo="https://img.tvcl.xyz/usa/teennick.png" group-title="Infantiles", TeenNick FHD (LAT)
@@ -579,9 +555,9 @@ http://hidra.live:80/roxvxesu/oBIz62a0y0/312798.ts
 http://hidra.live:80/roxvxesu/oBIz62a0y0/302608.ts
 #EXTINF: -1 tvg-id="CL - Las Estrellas" tvg-name="Las Estrellas FHD (CL*)" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Entretención",Estrellas internacional
 http://hidra.live:80/roxvxesu/oBIz62a0y0/313173.ts
-#EXTINF: -1 tvg-name="Las Estrellas HD (MX)" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Entretención", Las Estrellas HD (MX)
+#EXTINF: -1 tvg-name="Las Estrellas HD (MX)" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Entretención", Las Estrellas(MX)
 http://hidra.live:80/roxvxesu/oBIz62a0y0/302641.ts
-#EXTINF: -1 tvg-id="Canal Aprende" tvg-name="Las Estrellas -1HRs HD (MX)" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Entretención", Las Estrellas -1HRs HD (MX)
+#EXTINF: -1 tvg-id="Canal Aprende" tvg-name="Las Estrellas -1HRs HD (MX)" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Entretención", Las Estrellas -1HRs(MX)
 http://hidra.live:80/roxvxesu/oBIz62a0y0/304504.ts
 #EXTINF: -1 tvg-id="LifetimePanregional.us" tvg-name="Lifetime SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An7mzDmLIO5nzoFS0oIqvPpPEDjL-X9WMuG3F0Q43LEIe.png" group-title="Entretención", Lifetime SD (CL*)
 http://hidra.live:80/roxvxesu/oBIz62a0y0/313102.ts
