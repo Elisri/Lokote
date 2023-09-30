@@ -1,168 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆  MEXICO  ▆ ▅ ▄ ▂" tvg-logo="http://viperos.net:8080/images/0b2827ba5fa58dc5c3e4f68c50034db0.png" group-title="LAT - Mexico",▂ ▄ ▅ ▆  MEXICO  ▆ ▅ ▄ ▂
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/32224.ts
-#EXTINF:-1 tvg-id="canaladn40.mx" tvg-name="MX: ADN 40 FHD" tvg-logo="https://static.epg.best/mx/ADN40.mx.png" group-title="LAT - Mexico",MX: ADN 40 FHD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24040.ts
-#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="MX: Azteca 7" tvg-logo="https://i.im.ge/2022/08/05/FbxyrC.images-5.png" group-title="LAT - Mexico",MX: Azteca 7
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24032.ts
-#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="MX: Azteca 7 Full HD" tvg-logo="https://i.im.ge/2022/08/05/FbxyrC.images-5.png" group-title="LAT - Mexico",MX: Azteca 7 Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24033.ts
-#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="MX: Azteca Uno Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png" group-title="LAT - Mexico",MX: Azteca Uno Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24035.ts
-#EXTINF:-1 tvg-id="azclic.mx" tvg-name="MX: Az Clic (MOVIL)" tvg-logo="http://swedtv.vip/logos/Mexico/az_clic.png" group-title="LAT - Mexico",MX: Az Clic (MOVIL)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65048.ts
-#EXTINF:-1 tvg-id="azcinema.mx" tvg-name="MX: Az Cinema HD" tvg-logo="https://i.im.ge/2022/08/04/FYg2J8.cinema.jpg" group-title="LAT - Mexico",MX: Az Cinema HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24070.ts
-#EXTINF:-1 tvg-id="azcinema.mx" tvg-name="MX: Az Cinema FHD" tvg-logo="https://i.im.ge/2022/08/04/FYg2J8.cinema.jpg" group-title="LAT - Mexico",MX: Az Cinema FHD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/250589.ts
-#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="MX: Az Corazon HD" tvg-logo="http://swedtv.vip/logos/Mexico/az_corazon.png" group-title="LAT - Mexico",MX: Az Corazon HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24051.ts
-#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="MX: Az Corazon FHD" tvg-logo="http://swedtv.vip/logos/Mexico/az_corazon.png" group-title="LAT - Mexico",MX: Az Corazon FHD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24052.ts
-#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="MX: Az Mundo" tvg-logo="https://i.im.ge/2022/08/05/FbxUrF.images-4.png" group-title="LAT - Mexico",MX: Az Mundo
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24079.ts
-#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="MX: Az Mundo Full HD" tvg-logo="https://i.im.ge/2022/08/05/FbxUrF.images-4.png" group-title="LAT - Mexico",MX: Az Mundo Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24080.ts
-#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="MX: Canal 5 hd" tvg-logo="https://i.im.ge/2022/08/05/FbxxMP.images-6.png" group-title="LAT - Mexico",MX: Canal 5
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24036.ts
-#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="MX: Canal 5 Full HD" tvg-logo="http://swedtv.net:8080/TitanMaster(19)@19/s4pGJABXNayr/24037" group-title="LAT - Mexico",MX: Canal 5 Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24037.ts
-#EXTINF:-1 tvg-id="galatv9nacional.mx" tvg-name="MX: Galatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="LAT - Mexico",MX: Galatv
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24038.ts
-#EXTINF:-1 tvg-id="forotv.mx" tvg-name="MX: Foro TV Full HD" tvg-logo="https://static.epg.best/mx/ForoTv.mx.png" group-title="LAT - Mexico",MX: Foro TV Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24042.ts
-#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="MX: Multimedios Full HD" tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="LAT - Mexico",MX: Multimedios Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24044.ts
-#EXTINF:-1 tvg-id="MX: MULTIMEDIOS PLUS" tvg-name="MX: Multimedios Plus Full HD" tvg-logo="https://i.im.ge/2022/08/05/FbbdDP.Multimedios-2.webp" group-title="LAT - Mexico",MX: Multimedios Plus Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24046.ts
-#EXTINF:-1 tvg-id="teleformula.mx" tvg-name="MX: Teleformula" tvg-logo="https://static.epg.best/mx/TeleFormula.mx.png" group-title="LAT - Mexico",MX: Teleformula
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24047.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: Televisa MTY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_de_Televisa_%282001-2016%29.png" group-title="LAT - Mexico",MX: Televisa MTY
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24048.ts
-#EXTINF:-1 tvg-id="xhpdt.mx" tvg-name="MX: Televisa Puebla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_de_Televisa_%282001-2016%29.png" group-title="LAT - Mexico",MX: Televisa Puebla
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24049.ts
-#EXTINF:-1 tvg-id="xhpdt.mx" tvg-name="MX: Televisa Puebla Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_de_Televisa_%282001-2016%29.png" group-title="LAT - Mexico",MX: Televisa Puebla Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24050.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: Garage TV" tvg-logo="http://swedtv.vip/logos/Mexico/garage_tv.png" group-title="LAT - Mexico",MX: Garage TV
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24053.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: Garage TV Full HD" tvg-logo="http://swedtv.vip/logos/Mexico/garage_tv.png" group-title="LAT - Mexico",MX: Garage TV Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24054.ts
-#EXTINF:-1 tvg-id="MX: ¡HOLA! TV" tvg-name="MX: Hola TV" tvg-logo="http://swedtv.vip/logos/entretenimiento/%c2%a1HOLA!TV.png" group-title="LAT - Mexico",MX: Hola TV
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24055.ts
-#EXTINF:-1 tvg-id="MX: ¡HOLA! TV" tvg-name="MX: Hola TV Full HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/%c2%a1HOLA!TV.png" group-title="LAT - Mexico",MX: Hola TV Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24056.ts
-#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="MX: Mas Chic" tvg-logo="https://i.im.ge/2022/08/05/Fbbsvf.indice.png" group-title="LAT - Mexico",MX: Mas Chic
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24057.ts
-#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="MX: Mas Chic Full HD" tvg-logo="https://i.im.ge/2022/08/05/Fbbsvf.indice.png" group-title="LAT - Mexico",MX: Mas Chic Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24058.ts
-#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="MX: Milenio TV FHD" tvg-logo="https://static.epg.best/mx/MilenioTelevision.mx.png" group-title="LAT - Mexico",MX: Milenio TV FHD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/250588.ts
-#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="MX: Imagen TV" tvg-logo="http://swedtv.vip/logos/Mexico/Imagen_TV.png" group-title="LAT - Mexico",MX: Imagen TV
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24064.ts
-#EXTINF:-1 tvg-id="unicable.mx" tvg-name="MX: Unicable Full HD" tvg-logo="http://swedtv.vip/logos/Mexico/Unicable.png" group-title="LAT - Mexico",MX: Unicable Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24066.ts
-#EXTINF:-1 tvg-id="MX: WOBI TV" tvg-name="MX: Wobi TV" tvg-logo="http://swedtv.vip/logos/Mexico/WOBI_tv.png" group-title="LAT - Mexico",MX: Wobi TV
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24067.ts
-#EXTINF:-1 tvg-id="MX: WOBI TV" tvg-name="MX: Wobi TV Full HD" tvg-logo="http://swedtv.vip/logos/Mexico/WOBI_tv.png" group-title="LAT - Mexico",MX: Wobi TV Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24068.ts
-#EXTINF:-1 tvg-id="canalmexiquense.mx" tvg-name="MX: Mexiquense" tvg-logo="http://img.tvcl.xyz/mexico/mexiquense.png" group-title="LAT - Mexico",MX: Mexiquense
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24071.ts
-#EXTINF:-1 tvg-id="tvmasxhgv.es" tvg-name="MX: TV Mas HD" tvg-logo="https://i.im.ge/2022/08/05/Fc3rpm.394-3943107-tv-mas-veracruz-hd-png-download.png" group-title="LAT - Mexico",MX: TV Mas HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24072.ts
-#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="MX: Distrito Comedia" tvg-logo="http://swedtv.vip/logos/Mexico/Distrito_Comedia.png" group-title="LAT - Mexico",MX: Distrito Comedia
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24074.ts
-#EXTINF:-1 tvg-id="glitz.mx" tvg-name="MX: Glitz" tvg-logo="http://swedtv.vip/logos/Mexico/Glitz.png" group-title="LAT - Mexico",MX: Glitz
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24075.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: A Plus" tvg-logo="http://img.tvcl.xyz/mexico/aplus.png" group-title="LAT - Mexico",MX: A Plus
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24081.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 8 (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_8_logo.svg/1200px-Canal_8_logo.svg.png" group-title="LAT - Mexico",MX: Canal 8 (MOVIL)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65061.ts
-#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="MX: TL Novelas" tvg-logo="https://i.im.ge/2022/08/05/FcxcHy.indicwwwe.png" group-title="LAT - Mexico",MX: TL Novelas
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24096.ts
-#EXTINF:-1 tvg-id="bitme.mx" tvg-name="MX: Bit Me" tvg-logo="http://img.tvcl.xyz/infantiles/bitme.png" group-title="LAT - Mexico",MX: Bit Me
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/64404.ts
-#EXTINF:-1 tvg-id="bitme.mx" tvg-name="MX: Bit Me FHD" tvg-logo="http://img.tvcl.xyz/infantiles/bitme.png" group-title="LAT - Mexico",MX: Bit Me FHD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/64405.ts
-#EXTINF:-1 tvg-id="MX: WOBI TV" tvg-name="MX: Wobi TV (MOVIL)" tvg-logo="http://swedtv.vip/logos/Mexico/WOBI_tv.png" group-title="LAT - Mexico",MX: Wobi TV (MOVIL)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65784.ts
-#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="MX: TL Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/917px-Logo_tlnovelas_feb2019.png" group-title="LAT - Mexico",MX: TL Novelas HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/72250.ts
-#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="MX: Distrito Comedia HD" tvg-logo="http://swedtv.vip/logos/Mexico/Distrito_Comedia.png" group-title="LAT - Mexico",MX: Distrito Comedia HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/178028.ts
-#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="LAT: Investigation Discovery FHD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/InvestigationDiscovery.png" group-title="LAT - Entretenimiento",LAT: Investigation Discovery FHD (CO)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/4578.ts
-#EXTINF:-1 tvg-id="discoverychannel.co" tvg-name="LAT: Discovery Channel FHD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Channel.png" group-title="LAT - Entretenimiento",LAT: Discovery Channel FHD (CO)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/4568.ts
-#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Discovery Theater FHD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Theater.png" group-title="LAT - Entretenimiento",LAT: Discovery Theater FHD (CO)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/4571.ts
-#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="LAT: Animal Planet FHD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Animal_Planet.png" group-title="LAT - Entretenimiento",LAT: Animal Planet FHD (MX)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24088.ts
-#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="LAT: NatGeo FHD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Nat_Geo.png" group-title="LAT - Entretenimiento",LAT: NatGeo FHD (MX)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7093.ts
-#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="LAT: Comedy Central FHD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Comedy_Central.png" group-title="LAT - Entretenimiento",LAT: Comedy Central FHD (MX)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7106.ts
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="LAT: Las Estrellas HD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Las_Estrellas.png" group-title="LAT - Entretenimiento",LAT: Las Estrellas HD (MX)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/176534.ts
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="LAT: Las Estrellas FHD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Las_Estrellas.png" group-title="LAT - Entretenimiento",LAT: Las Estrellas FHD (MX)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/16827.ts
-#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="Infantil: Boomerang Full HD (MX)" tvg-logo="https://w7.pngwing.com/pngs/1020/812/png-transparent-boomerang-logo-bumper-cartoonito-boomerang-logo-blue-text-trademark.png" group-title="LAT - Infantil",Infantil: Boomerang Full HD (MX)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7352.ts
-#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="Infantil: Cartoon Network HD (MX)" tvg-logo="https://static.epg.best/tr/CartoonNetwork.tr.png" group-title="LAT - Infantil",Infantil: Cartoon Network HD (MX)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7345.ts
-#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="Infantil: Disney Junior Full HD (MX)" tvg-logo="https://static.epg.best/br/DisneyJunior.br.png" group-title="LAT - Infantil",Infantil: Disney Junior Full HD (MX)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7356.ts
-#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="Infantil: Disney Channel HD (MX)" tvg-logo="https://static.epg.best/tr/DisneyChannel.tr.png" group-title="LAT - Infantil",Infantil: Disney Channel HD (MX)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7348.ts
-#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="Infantil: Discovery Kids HD (MX)" tvg-logo="https://static.epg.best/br/DiscoveryKids.br.png" group-title="LAT - Infantil",Infantil: Discovery Kids HD (MX)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1782.ts￼Enterhttp://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24047.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: Televisa MTY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_de_Televisa_%282001-2016%29.png" group-title="LAT - Mexico",MX: Televisa MTY
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24048.ts
-#EXTINF:-1 tvg-id="xhpdt.mx" tvg-name="MX: Televisa Puebla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_de_Televisa_%282001-2016%29.png" group-title="LAT - Mexico",MX: Televisa Puebla
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24049.ts
-#EXTINF:-1 tvg-id="xhpdt.mx" tvg-name="MX: Televisa Puebla Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_de_Televisa_%282001-2016%29.png" group-title="LAT - Mexico",MX: Televisa Puebla Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24050.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: Garage TV" tvg-logo="http://swedtv.vip/logos/Mexico/garage_tv.png" group-title="LAT - Mexico",MX: Garage TV
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24053.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: Garage TV Full HD" tvg-logo="http://swedtv.vip/logos/Mexico/garage_tv.png" group-title="LAT - Mexico",MX: Garage TV Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24054.ts
-#EXTINF:-1 tvg-id="MX: ¡HOLA! TV" tvg-name="MX: Hola TV" tvg-logo="http://swedtv.vip/logos/entretenimiento/%c2%a1HOLA!TV.png" group-title="LAT - Mexico",MX: Hola TV
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24055.ts
-#EXTINF:-1 tvg-id="MX: ¡HOLA! TV" tvg-name="MX: Hola TV Full HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/%c2%a1HOLA!TV.png" group-title="LAT - Mexico",MX: Hola TV Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24056.ts
-#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="MX: Mas Chic" tvg-logo="https://i.im.ge/2022/08/05/Fbbsvf.indice.png" group-title="LAT - Mexico",MX: Mas Chic
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24057.ts
-#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="MX: Mas Chic Full HD" tvg-logo="https://i.im.ge/2022/08/05/Fbbsvf.indice.png" group-title="LAT - Mexico",MX: Mas Chic Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24058.ts
-#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="MX: Milenio TV FHD" tvg-logo="https://static.epg.best/mx/MilenioTelevision.mx.png" group-title="LAT - Mexico",MX: Milenio TV FHD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/250588.ts
-#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="MX: Imagen TV" tvg-logo="http://swedtv.vip/logos/Mexico/Imagen_TV.png" group-title="LAT - Mexico",MX: Imagen TV
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24064.ts
-#EXTINF:-1 tvg-id="unicable.mx" tvg-name="MX: Unicable Full HD" tvg-logo="http://swedtv.vip/logos/Mexico/Unicable.png" group-title="LAT - Mexico",MX: Unicable Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24066.ts
-#EXTINF:-1 tvg-id="MX: WOBI TV" tvg-name="MX: Wobi TV" tvg-logo="http://swedtv.vip/logos/Mexico/WOBI_tv.png" group-title="LAT - Mexico",MX: Wobi TV
-/restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24067.ts
-#EXTINF:-1 tvg-id="MX: WOBI TV" tvg-name="MX: Wobi TV Full HD" tvg-logo="http://swedtv.vip/logos/Mexico/WOBI_tv.png" group-title="LAT - Mexico",MX: Wobi TV Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24068.ts
-#EXTINF:-1 tvg-id="canalmexiquense.mx" tvg-name="MX: Mexiquense" tvg-logo="http://img.tvcl.xyz/mexico/mexiquense.png" group-title="LAT - Mexico",MX: Mexiquense
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24071.ts
-#EXTINF:-1 tvg-id="tvmasxhgv.es" tvg-name="MX: TV Mas HD" tvg-logo="https://i.im.ge/2022/08/05/Fc3rpm.394-3943107-tv-mas-veracruz-hd-png-download.png" group-title="LAT - Mexico",MX: TV Mas HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24072.ts
-#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="MX: Distrito Comedia" tvg-logo="http://swedtv.vip/logos/Mexico/Distrito_Comedia.png" group-title="LAT - Mexico",MX: Distrito Comedia
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24074.ts
-#EXTINF:-1 tvg-id="glitz.mx" tvg-name="MX: Glitz" tvg-logo="http://swedtv.vip/logos/Mexico/Glitz.png" group-title="LAT - Mexico",MX: Glitz
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24075.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: A Plus" tvg-logo="http://img.tvcl.xyz/mexico/aplus.png" group-title="LAT - Mexico",MX: A Plus
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24081.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 8 (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_8_logo.svg/1200px-Canal_8_logo.svg.png" group-title="LAT - Mexico",MX: Canal 8 (MOVIL)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65061.ts
-#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="MX: TL Novelas" tvg-logo="https://i.im.ge/2022/08/05/FcxcHy.indicwwwe.png" group-title="LAT - Mexico",MX: TL Novelas
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24096.ts
-#EXTINF:-1 tvg-id="bitme.mx" tvg-name="MX: Bit Me" tvg-logo="http://img.tvcl.xyz/infantiles/bitme.png" group-title="LAT - Mexico",MX: Bit Me
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/64404.ts
-#EXTINF:-1 tvg-id="bitme.mx" tvg-name="MX: Bit Me FHD" tvg-logo="http://img.tvcl.xyz/infantiles/bitme.png" group-title="LAT - Mexico",MX: Bit Me FHD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/64405.ts
-#EXTINF:-1 tvg-id="MX: WOBI TV" tvg-name="MX: Wobi TV (MOVIL)" tvg-logo="http://swedtv.vip/logos/Mexico/WOBI_tv.png" group-title="LAT - Mexico",MX: Wobi TV (MOVIL)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65784.ts
-#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="MX: TL Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/917px-Logo_tlnovelas_feb2019.png" group-title="LAT - Mexico",MX: TL Novelas HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/72250.ts
-#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="MX: Distrito Comedia HD" tvg-logo="http://swedtv.vip/logos/Mexico/Distrito_Comedia.png" group-title="LAT - Mexico",MX: Distrito Comedia HD
+http://wpshop.tk#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="http://s0lc.net:8080/imagenes/38.jpg" group-title="✨ VARIEDAD ✅",DISTRITO COMEDIA
+http://wpshop.tk:8080/XB21cLxBT4/kdeojk2vDM/15594
+#EXTINF:-1 tvg-id="" tvg-name="Univision " tvg-logo="data:image/jpeg;base64,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" group-title="✨ VARIEDAD ✅",Univision 
+http://wpshop.tk:8080/XB21cLxBT4/kdeojk2vDM/15583
+#EXTINF:-1 tvg-id="Telemundo51WSCV.us" tvg-name="Telemundo" tvg-logo="http://s0lc.net:8080/imagenes/111.jpg" group-title="✨ VARIEDAD ✅",Telemundo
+http://wpshop.tk:8080/XB21cLxBT4/kdeojk2vDM/15578
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="Sony Movies HD" tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a04g.png" group-title="✨ MOVIES ✅",Sony Movies HD
+http://wpshop.tk:8080/XB21cLxBT4/kdeojk2vDM/15602
+#EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="http://s0lc.net:8080/imagenes/16000.jpg" group-title="✨ MUSICA ✅",Concert Channel
+http://wpshop.tk:8080/XB21cLxBT4/kdeojk2vDM/15593
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="BANDAMX" tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a05r.png" group-title="✨ MUSICA ✅",BANDAMX
+http://wpshop.tk:8080/XB21cLxBT4/kdeojk2vDM/15588
+#EXTINF:-1 tvg-id="" tvg-name="Radio Formula" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/b8PxRTdezD.jpg" group-title="✨ MEXICO ✅",Radio Formula
+http://wpshop.tk:8080/XB21cLxBT4/kdeojk2vDM/31052
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5" tvg-logo="http://s0lc.net:8080/imagenes/3.jpg" group-title="✨ MEXICO ✅",Canal 5
+http://wpshop.tk:8080/XB21cLxBT4/kdeojk2vDM/20828
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LAS ESTRELLAS" tvg-logo="http://s0lc.net:8080/imagenes/150.jpg" group-title="✨ MEXICO ✅",LAS ESTRELLAS
+http://wpshop.tk:8080/XB21cLxBT4/kdeojk2vDM/15598
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7" tvg-logo="http://s0lc.net:8080/imagenes/5.jpg" group-title="✨ MEXICO ✅",AZTECA 7
+http://wpshop.tk:8080/XB21cLxBT4/kdeojk2vDM/15587
+#EXTINF:-1 tvg-id="" tvg-name="Canal 22" tvg-logo="http://rigel.orioncloudy.cc/m/imag/Canal-221.png" group-title="✨ MEXICO ✅",Canal 22
+http://wpshop.tk:8080/XB21cLxBT4/kdeojk2vDM/15231
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://rigel.orioncloudy.cc/m/imag/8.png" group-title="✨ MEXICO ✅",Azteca Uno
+http://wpshop.tk:8080/XB21cLxBT4/kdeojk2vDM/15315
+#EXTINF:-1 tvg-id="Venus.ar" tvg-name="VENUS" tvg-logo="http://s0lc.net:8080/imagenes/16944.jpg" group-title="⭕ ADULTOS ⭕",VENUS
+http://wpshop.tk:8080/XB21cLxBT4/kdeojk2vDM/15612
