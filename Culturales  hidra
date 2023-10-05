@@ -1,0 +1,138 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="NationalGeographicPanregional.us" tvg-name="National Geographic SD (CL*)" tvg-logo="" group-title="Culturales",National Geographic SD (CL*)
+http://hidra.live:80/kamuujtc/RUBmat123/313140.ts
+#EXTINF:-1 tvg-id="NationalGeographicPanregional.us" tvg-name="National Geographic FHD (CL*)" tvg-logo="" group-title="Culturales",National Geographic FHD (CL*)
+http://hidra.live:80/kamuujtc/RUBmat123/313135.ts
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="National Geographic HD (MX)" tvg-logo="https://img.tvcl.xyz/culturales/natgeo.png" group-title="Culturales",National Geographic HD (MX)
+http://hidra.live:80/kamuujtc/RUBmat123/302706.ts
+#EXTINF:-1 tvg-id="NationalGeographicPanregional.us" tvg-name="National Geographic SD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-rKLk2rCDzNrtkRmQ8JyEw3.png" group-title="Culturales",National Geographic SD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/34846.ts
+#EXTINF:-1 tvg-id="NationalGeographicPanregional.us" tvg-name="National Geographic HD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-rKLk2rCDzNrtkRmQ8JyEw3.png" group-title="Culturales",National Geographic HD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/34847.ts
+#EXTINF:-1 tvg-id="NationalGeographicPanregional.us" tvg-name="National Geographic FHD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-rKLk2rCDzNrtkRmQ8JyEw3.png" group-title="Culturales",National Geographic FHD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/34848.ts
+#EXTINF:-1 tvg-id="NationalGeographicPanregional.us" tvg-name="National Geographic FHD (LAT)*" tvg-logo="" group-title="Culturales",National Geographic FHD (LAT)*
+http://hidra.live:80/kamuujtc/RUBmat123/312903.ts
+#EXTINF:-1 tvg-id="DiscoveryChannelChile.cl" tvg-name="Discovery Channel SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An5qqqj5gdp27Yvgst7k139Pp82jJPXAXQf_-fMUpgZ__.png" group-title="Culturales",Discovery Channel SD (CL*)
+http://hidra.live:80/kamuujtc/RUBmat123/313129.ts
+#EXTINF:-1 tvg-id="DiscoveryChannelChile.cl" tvg-name="Discovery Channel FHD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An5qqqj5gdp27Yvgst7k139Pp82jJPXAXQf_-fMUpgZ__.png" group-title="Culturales",Discovery Channel FHD (CL*)
+http://hidra.live:80/kamuujtc/RUBmat123/313142.ts
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Discovery Channel HD (MX)" tvg-logo="https://img.tvcl.xyz/culturales/discovery.png" group-title="Culturales",Discovery Channel HD (MX)
+http://hidra.live:80/kamuujtc/RUBmat123/302627.ts
+#EXTINF:-1 tvg-id="CO - Discovery HD" tvg-name="Discovery Channel SD (LAT)" tvg-logo="https://img.tvcl.xyz/culturales/discovery.png" group-title="Culturales",Discovery Channel SD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/34808.ts
+#EXTINF:-1 tvg-id="CO - Discovery HD" tvg-name="Discovery Channel FHD (LAT)" tvg-logo="https://img.tvcl.xyz/culturales/discovery.png" group-title="Culturales",Discovery Channel FHD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/34810.ts
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-name="Discovery H&H SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-pqmghpxf8J3b_nx90P13SV.png" group-title="Culturales",Discovery H&H SD (CL*)
+http://hidra.live:80/kamuujtc/RUBmat123/313141.ts
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-name="Discovery H&H FHD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-pqmghpxf8J3b_nx90P13SV.png" group-title="Culturales",Discovery H&H FHD (CL*)
+http://hidra.live:80/kamuujtc/RUBmat123/313128.ts
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Discovery H&H HD (MX)" tvg-logo="https://img.tvcl.xyz/culturales/discoveryhh.png" group-title="Culturales",Discovery H&H HD (MX)
+http://hidra.live:80/kamuujtc/RUBmat123/302693.ts
+#EXTINF:-1 tvg-id="CO - Discovery Home & Health" tvg-name="Discovery H&H SD (LAT)" tvg-logo="https://img.tvcl.xyz/culturales/discoveryhh.png" group-title="Culturales",Discovery H&H SD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/34814.ts
+#EXTINF:-1 tvg-id="CO - Discovery Home & Health" tvg-name="Discovery H&H FHD (LAT)" tvg-logo="https://img.tvcl.xyz/culturales/discoveryhh.png" group-title="Culturales",Discovery H&H FHD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/34816.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H FHD (LAT)*" tvg-logo="" group-title="Culturales",Discovery H&H FHD (LAT)*
+http://hidra.live:80/kamuujtc/RUBmat123/312916.ts
+#EXTINF:-1 tvg-id="DiscoveryTheaterLatinAmerica.us" tvg-name="Discovery Theater SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-q1sma0Iq7VNGfm-mfmpfBd.png" group-title="Culturales",Discovery Theater SD (CL*)
+http://hidra.live:80/kamuujtc/RUBmat123/313130.ts
+#EXTINF:-1 tvg-id="DiscoveryTheaterLatinAmerica.us" tvg-name="Discovery Theater HD (MX)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-q1sma0Iq7VNGfm-mfmpfBd.png" group-title="Culturales",Discovery Theater HD (MX)
+http://hidra.live:80/kamuujtc/RUBmat123/302626.ts
+#EXTINF:-1 tvg-id="DiscoveryTheaterLatinAmerica.us" tvg-name="Discovery Theater FHD (MX)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-q1sma0Iq7VNGfm-mfmpfBd.png" group-title="Culturales",Discovery Theater FHD (MX)
+http://hidra.live:80/kamuujtc/RUBmat123/34819.ts
+#EXTINF:-1 tvg-id="DiscoveryTheaterLatinAmerica.us" tvg-name="Discovery Theater SD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-q1sma0Iq7VNGfm-mfmpfBd.png" group-title="Culturales",Discovery Theater SD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/34818.ts
+#EXTINF:-1 tvg-id="TLCSouth.us" tvg-name="Discovery TLC FHD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-rKiY2NLvlr37c3Ss5v2KOD.png" group-title="Culturales",Discovery TLC FHD (CL*)
+http://hidra.live:80/kamuujtc/RUBmat123/313146.ts
+#EXTINF:-1 tvg-id="TLCSouth.us" tvg-name="Discovery TLC SD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-rKiY2NLvlr37c3Ss5v2KOD.png" group-title="Culturales",Discovery TLC SD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/34822.ts
+#EXTINF:-1 tvg-id="TLCSouth.us" tvg-name="Discovery TLC FHD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-rKiY2NLvlr37c3Ss5v2KOD.png" group-title="Culturales",Discovery TLC FHD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/34824.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC HD (MX)" tvg-logo="https://img.tvcl.xyz/usa/tlc.png" group-title="Culturales",Discovery TLC HD (MX)
+http://hidra.live:80/kamuujtc/RUBmat123/302730.ts
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-name="Discovery Turbo SD (CL*)" tvg-logo="" group-title="Culturales",Discovery Turbo SD (CL*)
+http://hidra.live:80/kamuujtc/RUBmat123/313138.ts
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-name="Discovery Turbo HD (MX)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-pJnRsWObL3L4ItTNMJFvTLdGIZ87lu8D-mmgFZl72u2g.png" group-title="Culturales",Discovery Turbo HD (MX)
+http://hidra.live:80/kamuujtc/RUBmat123/302629.ts
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-name="Discovery Turbo SD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-pJnRsWObL3L4ItTNMJFvTLdGIZ87lu8D-mmgFZl72u2g.png" group-title="Culturales",Discovery Turbo SD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/34825.ts
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-name="Discovery Turbo FHD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-pJnRsWObL3L4ItTNMJFvTLdGIZ87lu8D-mmgFZl72u2g.png" group-title="Culturales",Discovery Turbo FHD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/34826.ts
+#EXTINF:-1 tvg-id="DiscoveryWorldPanregional.us" tvg-name="Discovery World FHD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-ry8zIBQ63mwr6PRtcasNjB.png" group-title="Culturales",Discovery World FHD (CL*)
+http://hidra.live:80/kamuujtc/RUBmat123/313131.ts
+#EXTINF:-1 tvg-id="DiscoveryWorldPanregional.us" tvg-name="Discovery World SD (MX)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-ry8zIBQ63mwr6PRtcasNjB.png" group-title="Culturales",Discovery World SD (MX)
+http://hidra.live:80/kamuujtc/RUBmat123/34827.ts
+#EXTINF:-1 tvg-id="DiscoveryWorldPanregional.us" tvg-name="Discovery World HD (MX)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-ry8zIBQ63mwr6PRtcasNjB.png" group-title="Culturales",Discovery World HD (MX)
+http://hidra.live:80/kamuujtc/RUBmat123/302630.ts
+#EXTINF:-1 tvg-id="DiscoveryWorldPanregional.us" tvg-name="Discovery World FHD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-ry8zIBQ63mwr6PRtcasNjB.png" group-title="Culturales",Discovery World FHD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/34828.ts
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science FHD (CL*)" tvg-logo="" group-title="Culturales",Discovery Science FHD (CL*)
+http://hidra.live:80/kamuujtc/RUBmat123/313147.ts
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science SD (MX)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-r43XSi41c4LJv1Q5d1F9gs.png" group-title="Culturales",Discovery Science SD (MX)
+http://hidra.live:80/kamuujtc/RUBmat123/34817.ts
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science HD (MX)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-r43XSi41c4LJv1Q5d1F9gs.png" group-title="Culturales",Discovery Science HD (MX)
+http://hidra.live:80/kamuujtc/RUBmat123/302628.ts
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science FHD (LAT)" tvg-logo="" group-title="Culturales",Discovery Science FHD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/312807.ts
+#EXTINF:-1 tvg-id="InvestigationDiscoverySouth.us" tvg-name="Investigation Discovery SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An8U9IN1KMZje_bOMyhzJhurl2bHg6X6BHfTu2ifA4vAL.png" group-title="Culturales",Investigation Discovery SD (CL*)
+http://hidra.live:80/kamuujtc/RUBmat123/313143.ts
+#EXTINF:-1 tvg-id="InvestigationDiscoverySouth.us" tvg-name="Investigation Discovery FHD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An8U9IN1KMZje_bOMyhzJhurl2bHg6X6BHfTu2ifA4vAL.png" group-title="Culturales",Investigation Discovery FHD (CL*)
+http://hidra.live:80/kamuujtc/RUBmat123/313134.ts
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Investigation Discovery HD (MX)" tvg-logo="https://img.tvcl.xyz/culturales/id.png" group-title="Culturales",Investigation Discovery HD (MX)
+http://hidra.live:80/kamuujtc/RUBmat123/302674.ts
+#EXTINF:-1 tvg-id="InvestigationDiscoverySouth.us" tvg-name="Investigation Discovery SD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-qUDR8dtL8lt-PRlllCdOGO.png" group-title="Culturales",Investigation Discovery SD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/34838.ts
+#EXTINF:-1 tvg-id="InvestigationDiscoverySouth.us" tvg-name="Investigation Discovery FHD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-qUDR8dtL8lt-PRlllCdOGO.png" group-title="Culturales",Investigation Discovery FHD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/34840.ts
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-qHSbpR-YCQiHhSVXzKPh4p.png" group-title="Culturales",Animal Planet SD (CL*)
+http://hidra.live:80/kamuujtc/RUBmat123/313127.ts
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet FHD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-qHSbpR-YCQiHhSVXzKPh4p.png" group-title="Culturales",Animal Planet FHD (CL*)
+http://hidra.live:80/kamuujtc/RUBmat123/313144.ts
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Animal Planet HD (MX)" tvg-logo="https://img.tvcl.xyz/culturales/animalp.png" group-title="Culturales",Animal Planet HD (MX)
+http://hidra.live:80/kamuujtc/RUBmat123/302606.ts
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet SD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-qHSbpR-YCQiHhSVXzKPh4p.png" group-title="Culturales",Animal Planet SD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/34801.ts
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet FHD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-qHSbpR-YCQiHhSVXzKPh4p.png" group-title="Culturales",Animal Planet FHD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/34803.ts
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet FHD (CO) (E)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-qHSbpR-YCQiHhSVXzKPh4p.png" group-title="Culturales",Animal Planet FHD (CO) (E)
+http://hidra.live:80/kamuujtc/RUBmat123/35195.ts
+#EXTINF:-1 tvg-id="HistorySouth.us" tvg-name="History Channel SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-rJoJMemdCCxOJHDgnjHGU5.png" group-title="Culturales",History Channel SD (CL*)
+http://hidra.live:80/kamuujtc/RUBmat123/313145.ts
+#EXTINF:-1 tvg-id="HistorySouth.us" tvg-name="History Channel FHD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-rJoJMemdCCxOJHDgnjHGU5.png" group-title="Culturales",History Channel FHD (CL*)
+http://hidra.live:80/kamuujtc/RUBmat123/313133.ts
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="History Channel HD (MX)" tvg-logo="https://img.tvcl.xyz/culturales/history.png" group-title="Culturales",History Channel HD (MX)
+http://hidra.live:80/kamuujtc/RUBmat123/302673.ts
+#EXTINF:-1 tvg-id="CO - History HD" tvg-name="History Channel SD (LAT)" tvg-logo="https://img.tvcl.xyz/culturales/history.png" group-title="Culturales",History Channel SD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/34831.ts
+#EXTINF:-1 tvg-id="CO - History HD" tvg-name="History Channel FHD (LAT)" tvg-logo="https://img.tvcl.xyz/culturales/history.png" group-title="Culturales",History Channel FHD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/34833.ts
+#EXTINF:-1 tvg-id="History2Panregional.us" tvg-name="H2 SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-q1WsbmThp3Hg28HYnFINIe.png" group-title="Culturales",H2 SD (CL*)
+http://hidra.live:80/kamuujtc/RUBmat123/313148.ts
+#EXTINF:-1 tvg-id="History2Panregional.us" tvg-name="H2 FHD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-q1WsbmThp3Hg28HYnFINIe.png" group-title="Culturales",H2 FHD (CL*)
+http://hidra.live:80/kamuujtc/RUBmat123/313132.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD (MX)" tvg-logo="https://img.tvcl.xyz/culturales/h2.png" group-title="Culturales",H2 HD (MX)
+http://hidra.live:80/kamuujtc/RUBmat123/302662.ts
+#EXTINF:-1 tvg-id="History2Panregional.us" tvg-name="H2 SD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-q1WsbmThp3Hg28HYnFINIe.png" group-title="Culturales",H2 SD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/312817.ts
+#EXTINF:-1 tvg-id="History2Panregional.us" tvg-name="H2 FHD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-q1WsbmThp3Hg28HYnFINIe.png" group-title="Culturales",H2 FHD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/312816.ts
+#EXTINF:-1 tvg-id="History2Panregional.us" tvg-name="H2 FHD (LAT)*" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An3FqCVDwFtXG-fLpPDIQO-q1WsbmThp3Hg28HYnFINIe.png" group-title="Culturales",H2 FHD (LAT)*
+http://hidra.live:80/kamuujtc/RUBmat123/312909.ts
+#EXTINF:-1 tvg-id="HGTVPanregional.us" tvg-name="HGTV FHD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An4LQFXXr8Kx5ATlyp8G-3DwKTB8E9QR8Vl-yRJ-lnihb.png" group-title="Culturales",HGTV FHD (CL*)
+http://hidra.live:80/kamuujtc/RUBmat123/313149.ts
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD (MX)" tvg-logo="https://img.tvcl.xyz/usa/hgtv.png" group-title="Culturales",HGTV HD (MX)
+http://hidra.live:80/kamuujtc/RUBmat123/302672.ts
+#EXTINF:-1 tvg-id="" tvg-name="HGTV SD (LAT)" tvg-logo="https://img.tvcl.xyz/usa/hgtv.png" group-title="Culturales",HGTV SD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/312820.ts
+#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD (LAT)" tvg-logo="https://img.tvcl.xyz/usa/hgtv.png" group-title="Culturales",HGTV FHD (LAT)
+http://hidra.live:80/kamuujtc/RUBmat123/312818.ts
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor HD (MX)" tvg-logo="https://img.tvcl.xyz/usa/outdoor.png" group-title="Culturales",Outdoor HD (MX)
+http://hidra.live:80/kamuujtc/RUBmat123/302715.ts
+#EXTINF:-1 tvg-id="XEW.Las.Estrellas.DF.(LASESTRE).mx" tvg-name="Wobi SD (MX)" tvg-logo="https://img.tvcl.xyz/culturales/wobi.png" group-title="Culturales",Wobi SD (MX)
+http://hidra.live:80/kamuujtc/RUBmat123/34804.ts
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature SD (CL*)" tvg-logo="" group-title="Culturales",Love Nature SD (CL*)
+http://hidra.live:80/kamuujtc/RUBmat123/313139.ts
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature FHD (CL*)" tvg-logo="" group-title="Culturales",Love Nature FHD (CL*)
+http://hidra.live:80/kamuujtc/RUBmat123/313137.ts
