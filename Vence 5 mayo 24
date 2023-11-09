@@ -1,175 +1,175 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="APlus.mx" tvg-name="MX || A + 7.2 HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/1200px-Logo_a%2B_%28canal%29.svg.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || A + 7.2 HD®
+#EXTINF:-1 tvg-id="APlus." tvg-name="A + 7.2 HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/1200px-Logo_a%2B_%28canal%29.svg.png" group-title="MÉXICO FHD",A + 7.2 HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3668
-#EXTINF:-1 tvg-id="APlus.mx" tvg-name="MX || A+ 7.2 UHD®" tvg-logo="https://tvazteca.brightspotcdn.com/c1/59/8bfec2044396b3519784ef411d21/logo-pag-bn..png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || A+ 7.2 UHD®
+#EXTINF:-1 tvg-id="APlus." tvg-name="A+ 7.2 UHD®" tvg-logo="https://tvazteca.brightspotcdn.com/c1/59/8bfec2044396b3519784ef411d21/logo-pag-bn..png" group-title="MÉXICO FHD",A+ 7.2 UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3697
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="MX || ADN 40 HD®" tvg-logo="https://tvazteca.brightspotcdn.com/58/74/8f13538947b7a5e8a0c8989612e1/adn-40-512x512-color-02.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || ADN 40 HD®
+#EXTINF:-1 tvg-id="ADN40." tvg-name="ADN 40 HD®" tvg-logo="https://tvazteca.brightspotcdn.com/58/74/8f13538947b7a5e8a0c8989612e1/adn-40-512x512-color-02.png" group-title="MÉXICO FHD",ADN 40 HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/129046
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="MX || ADN 40 HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || ADN 40 HD®
+#EXTINF:-1 tvg-id="ADN40." tvg-name="ADN 40 HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png" group-title="MÉXICO FHD",ADN 40 HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/130017
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="MX || ADN40 UHD®" tvg-logo="https://www.pngitem.com/pimgs/m/359-3591396_thumb-image-adn-40-logo-png-transparent-png.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || ADN40 UHD®
+#EXTINF:-1 tvg-id="ADN40." tvg-name="ADN40 UHD®" tvg-logo="https://www.pngitem.com/pimgs/m/359-3591396_thumb-image-adn-40-logo-png-transparent-png.png" group-title="MÉXICO FHD",ADN40 UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3699
-#EXTINF:-1 tvg-id="" tvg-name="MX || AFIZZIONADOS HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || AFIZZIONADOS HD®
+#EXTINF:-1 tvg-id="" tvg-name="AFIZZIONADOS HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="MÉXICO FHD",AFIZZIONADOS HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/148890
-#EXTINF:-1 tvg-id="" tvg-name="MX || TELESISTEMA Canal 9 HD®" tvg-logo="https://www.alcancetv.com.mx/wp-content/uploads/2020/07/cropped-logo2.fw_.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || TELESISTEMA Canal 9 HD®
+#EXTINF:-1 tvg-id="" tvg-name="TELESISTEMA Canal 9 HD®" tvg-logo="https://www.alcancetv.com./wp-content/uploads/2020/07/cropped-logo2.fw_.png" group-title="MÉXICO FHD",TELESISTEMA Canal 9 HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/140816
-#EXTINF:-1 tvg-id="" tvg-name="MX || Alcarria TV HD®" tvg-logo="https://www.alcarria.tv/web2/wp-content/uploads/2018/04/logo_alcarria_tv_letras_blancas.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Alcarria TV HD®
+#EXTINF:-1 tvg-id="" tvg-name="Alcarria TV HD®" tvg-logo="https://www.alcarria.tv/web2/wp-content/uploads/2018/04/logo_alcarria_tv_letras_blancas.png" group-title="MÉXICO FHD",Alcarria TV HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/130018
-#EXTINF:-1 tvg-id="" tvg-name="MX || AMX Noticias HD®" tvg-logo="https://mvt.com.mx/wp-content/uploads/2020/07/AMX-1.jpg" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || AMX Noticias HD®
+#EXTINF:-1 tvg-id="" tvg-name="A Noticias HD®" tvg-logo="https://mvt.com./wp-content/uploads/2020/07/A-1.jpg" group-title="MÉXICO FHD",A Noticias HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/148857
-#EXTINF:-1 tvg-id="AyMSports.mx" tvg-name="MX || AYM SPORTS HD®" tvg-logo="https://pescaendirecto.com/wp-content/uploads/easy_logo_slider/498508Logo-AYM.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || AYM SPORTS HD®
+#EXTINF:-1 tvg-id="AyMSports." tvg-name="AYM SPORTS HD®" tvg-logo="https://pescaendirecto.com/wp-content/uploads/easy_logo_slider/498508Logo-AYM.png" group-title="MÉXICO FHD",AYM SPORTS HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3670
-#EXTINF:-1 tvg-id="AyMSports.mx" tvg-name="MX || Aym Sports UHD® " tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/aym_sports-600x540-425346095.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Aym Sports UHD® 
+#EXTINF:-1 tvg-id="AyMSports." tvg-name="Aym Sports UHD® " tvg-logo="https://www.pandaancha./plds/articulos/froala/aym_sports-600x540-425346095.png" group-title="MÉXICO FHD",Aym Sports UHD® 
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3705
-#EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="MX || Az Cinema HD®" tvg-logo="https://americancable.ec/wp-content/uploads/2021/09/40-logo-azcinema.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Az Cinema HD®
+#EXTINF:-1 tvg-id="AzCinema." tvg-name="Az Cinema HD®" tvg-logo="https://americancable.ec/wp-content/uploads/2021/09/40-logo-azcinema.png" group-title="MÉXICO FHD",Az Cinema HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/129028
-#EXTINF:-1 tvg-id="AzClic.mx" tvg-name="MX || Az Clic HD®" tvg-logo="" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Az Clic HD®
+#EXTINF:-1 tvg-id="AzClic." tvg-name="Az Clic HD®" tvg-logo="" group-title="MÉXICO FHD",Az Clic HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/129029
-#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="MX || Az Corazón HD®" tvg-logo="" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Az Corazón HD®
+#EXTINF:-1 tvg-id="AzCorazon." tvg-name="Az Corazón HD®" tvg-logo="" group-title="MÉXICO FHD",Az Corazón HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/129030
-#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="MX || Az Corazón UHD® " tvg-logo="https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Az Corazón UHD® 
+#EXTINF:-1 tvg-id="AzCorazon." tvg-name="Az Corazón UHD® " tvg-logo="https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png" group-title="MÉXICO FHD",Az Corazón UHD® 
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3707
-#EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="MX || Az Mundo HD®" tvg-logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Az Mundo HD®
+#EXTINF:-1 tvg-id="AzMundo." tvg-name="Az Mundo HD®" tvg-logo="https://www.cablemaster.com./images/Logos/azmundo.jpg" group-title="MÉXICO FHD",Az Mundo HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/129031
-#EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="MX || Az Mundo UHD® " tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Az Mundo UHD® 
+#EXTINF:-1 tvg-id="AzMundo." tvg-name="Az Mundo UHD® " tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="MÉXICO FHD",Az Mundo UHD® 
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3708
-#EXTINF:-1 tvg-id="Azteca7MexicoCity.mx" tvg-name="MX || Azteca 7 HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Azteca 7 HD®
+#EXTINF:-1 tvg-id="Azteca7MexicoCity." tvg-name="Azteca 7 HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MÉXICO FHD",Azteca 7 HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/129033
-#EXTINF:-1 tvg-id="AzClic.mx" tvg-name="MX || AZTECA CLIC UHD® " tvg-logo="https://www.eluniversal.com.mx/sites/default/files/2016/11/09/ALFOMBRA-E13-EU101116-2_Drupal%20Main%20Image.var_1478751216.jpg" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || AZTECA CLIC UHD® 
+#EXTINF:-1 tvg-id="AzClic." tvg-name="AZTECA CLIC UHD® " tvg-logo="https://www.eluniversal.com./sites/default/files/2016/11/09/ALFOMBRA-E13-EU101116-2_Drupal%20Main%20Image.var_1478751216.jpg" group-title="MÉXICO FHD",AZTECA CLIC UHD® 
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/145506
-#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="MX || AZTECA CORAZÓN UHD®" tvg-logo="https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || AZTECA CORAZÓN UHD®
+#EXTINF:-1 tvg-id="AzCorazon." tvg-name="AZTECA CORAZÓN UHD®" tvg-logo="https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png" group-title="MÉXICO FHD",AZTECA CORAZÓN UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/145508
-#EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="MX || AZTECA MUNDO UHD®" tvg-logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || AZTECA MUNDO UHD®
+#EXTINF:-1 tvg-id="AzMundo." tvg-name="AZTECA MUNDO UHD®" tvg-logo="https://www.cablemaster.com./images/Logos/azmundo.jpg" group-title="MÉXICO FHD",AZTECA MUNDO UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/145512
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="MX || Azteca Uno HD®" tvg-logo="https://w7.pngwing.com/pngs/322/373/png-transparent-tv-azteca-television-azteca-uno-azteca-america-xhimt-tdt-others-television-text-logo.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Azteca Uno HD®
+#EXTINF:-1 tvg-id="AztecaUno." tvg-name="Azteca Uno HD®" tvg-logo="https://w7.pngwing.com/pngs/322/373/png-transparent-tv-azteca-television-azteca-uno-azteca-america-xhimt-tdt-others-television-text-logo.png" group-title="MÉXICO FHD",Azteca Uno HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/129032
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="MX || Azteca Uno UHD®" tvg-logo="https://www.seekpng.com/png/full/229-2293870_azteca-trece-coming-azteca-uno-logo-azteca-1.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Azteca Uno UHD®
+#EXTINF:-1 tvg-id="AztecaUno." tvg-name="Azteca Uno UHD®" tvg-logo="https://www.seekpng.com/png/full/229-2293870_azteca-trece-coming-azteca-uno-logo-azteca-1.png" group-title="MÉXICO FHD",Azteca Uno UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3801
-#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="MX || Bandamax UHD®" tvg-logo="https://cdn.mitvstatic.com/channels/mx_bandamax_m.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Bandamax UHD®
+#EXTINF:-1 tvg-id="Bandamax." tvg-name="Bandamax UHD®" tvg-logo="https://cdn.mitvstatic.com/channels/_bandamax_m.png" group-title="MÉXICO FHD",Bandamax UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/129047
-#EXTINF:-1 tvg-id="BitMe.mx" tvg-name="MX || BITME MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || BITME MX UHD®
+#EXTINF:-1 tvg-id="BitMe." tvg-name="BITME  UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png" group-title="MÉXICO FHD",BITME  UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/151648
-#EXTINF:-1 tvg-id="" tvg-name="MX || TVP Obregón - HD®" tvg-logo="https://www.nicepng.com/png/detail/355-3556245_cadena-h-logo-png.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || TVP Obregón - HD®
+#EXTINF:-1 tvg-id="" tvg-name="TVP Obregón - HD®" tvg-logo="https://www.nicepng.com/png/detail/355-3556245_cadena-h-logo-png.png" group-title="MÉXICO FHD",TVP Obregón - HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/129034
-#EXTINF:-1 tvg-id="" tvg-name="MX || Canal 10 Cancún UHD®" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Canal 10 Cancún UHD®
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 Cancún UHD®" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online.png" group-title="MÉXICO FHD",Canal 10 Cancún UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/130020
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="MX || CANAL 11 MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || CANAL 11 MX UHD®
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="CANAL 11  UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="MÉXICO FHD",CANAL 11  UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3723
-#EXTINF:-1 tvg-id="Canal22MetropolitanayNacional.mx" tvg-name="MX || LOBO TV UHD®" tvg-logo="https://pbs.twimg.com/profile_images/1323320211567763462/zhDx0Q4G_400x400.jpg" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || LOBO TV UHD®
+#EXTINF:-1 tvg-id="Canal22MetropolitanayNacional." tvg-name="LOBO TV UHD®" tvg-logo="https://pbs.twimg.com/profile_images/1323320211567763462/zhDx0Q4G_400x400.jpg" group-title="MÉXICO FHD",LOBO TV UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/131726
-#EXTINF:-1 tvg-id="" tvg-name="MX || CANAL 26 UHD®" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || CANAL 26 UHD®
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 26 UHD®" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online.png" group-title="MÉXICO FHD",CANAL 26 UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/129035
-#EXTINF:-1 tvg-id="XHGTDT.mx" tvg-name="MX || Canal 4 HD®" tvg-logo="https://seeklogo.com/images/C/Canal_4-logo-854F13B1CF-seeklogo.com.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Canal 4 HD®
+#EXTINF:-1 tvg-id="XHGTDT." tvg-name="Canal 4 HD®" tvg-logo="https://seeklogo.com/images/C/Canal_4-logo-854F13B1CF-seeklogo.com.png" group-title="MÉXICO FHD",Canal 4 HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/129036
-#EXTINF:-1 tvg-id="XHGTDT.mx" tvg-name="MX || CANAL 4 UHD® " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || CANAL 4 UHD® 
+#EXTINF:-1 tvg-id="XHGTDT." tvg-name="CANAL 4 UHD® " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="MÉXICO FHD",CANAL 4 UHD® 
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3718
-#EXTINF:-1 tvg-id="" tvg-name="MX || CANAL 44 CHIHUAHUA UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || CANAL 44 CHIHUAHUA UHD®
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 44 CHIHUAHUA UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png" group-title="MÉXICO FHD",CANAL 44 CHIHUAHUA UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/130023
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="MX || Canal 5 HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/827px-Canal_5_Mexico_logo_2014.svg.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Canal 5 HD®
+#EXTINF:-1 tvg-id="Canal5." tvg-name="Canal 5 HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/827px-Canal_5_Mexico_logo_2014.svg.png" group-title="MÉXICO FHD",Canal 5 HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/129037
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="MX || CANAL 5 UHD®" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/XHGC-TV_2014_HD-253x199-151761682.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || CANAL 5 UHD®
+#EXTINF:-1 tvg-id="Canal5." tvg-name="CANAL 5 UHD®" tvg-logo="https://www.pandaancha./plds/articulos/froala/XHGC-TV_2014_HD-253x199-151761682.png" group-title="MÉXICO FHD",CANAL 5 UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3719
-#EXTINF:-1 tvg-id="" tvg-name="MX || Canal 8 HD®" tvg-logo="https://img2.freepng.es/20180617/qca/kisspng-canal-8-television-channel-tl-loisirs-live-tel-telenica-canal-8-5b26d0290d70b6.0796160815292703130551.jpg" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Canal 8 HD®
+#EXTINF:-1 tvg-id="" tvg-name="Canal 8 HD®" tvg-logo="https://img2.freepng.es/20180617/qca/kisspng-canal-8-television-channel-tl-loisirs-live-tel-telenica-canal-8-5b26d0290d70b6.0796160815292703130551.jpg" group-title="MÉXICO FHD",Canal 8 HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/129038
-#EXTINF:-1 tvg-id="" tvg-name="MX || CANAL 8 UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Multimedios_Canal_Ocho_Logo.svg.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || CANAL 8 UHD®
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 8 UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Multimedios_Canal_Ocho_Logo.svg.png" group-title="MÉXICO FHD",CANAL 8 UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3720
-#EXTINF:-1 tvg-id="Nueve.mx" tvg-name="MX || CANAL 9 Telesistema SD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Telesistema_Mexicano.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || CANAL 9 Telesistema SD®
+#EXTINF:-1 tvg-id="Nueve." tvg-name="CANAL 9 Telesistema SD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Telesistema_Mexicano.png" group-title="MÉXICO FHD",CANAL 9 Telesistema SD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/149448
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="MX || CANAL 15 UHD®" tvg-logo="https://pbs.twimg.com/profile_images/1276602451236454402/QMbx3K_D_400x400.jpg" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || CANAL 15 UHD®
+#EXTINF:-1 tvg-id="ADN40." tvg-name="CANAL 15 UHD®" tvg-logo="https://pbs.twimg.com/profile_images/1276602451236454402/QMbx3K_D_400x400.jpg" group-title="MÉXICO FHD",CANAL 15 UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/140822
-#EXTINF:-1 tvg-id="" tvg-name="MX || Canal DIEZ Cancún HD®" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Canal DIEZ Cancún HD®
+#EXTINF:-1 tvg-id="" tvg-name="Canal DIEZ Cancún HD®" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online.png" group-title="MÉXICO FHD",Canal DIEZ Cancún HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/130019
-#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="MX || Canal Judicial HD®" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_04/large.Canal_Judicial_HD_20165S.png.08a4498d85904920faf967999e3a55f6.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Canal Judicial HD®
+#EXTINF:-1 tvg-id="JusticiaTV." tvg-name="Canal Judicial HD®" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_04/large.Canal_Judicial_HD_20165S.png.08a4498d85904920faf967999e3a55f6.png" group-title="MÉXICO FHD",Canal Judicial HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/129039
-#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="MX || CANAL 28 SIZART UHD®" tvg-logo="https://www.sizart.org.mx/images/WhatsApp_Image_2022-02-04_at_72759_PM.jpeg" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || CANAL 28 SIZART UHD®
+#EXTINF:-1 tvg-id="JusticiaTV." tvg-name="CANAL 28 SIZART UHD®" tvg-logo="https://www.sizart.org./images/WhatsApp_Image_2022-02-04_at_72759_PM.jpeg" group-title="MÉXICO FHD",CANAL 28 SIZART UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3722
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="MX || Canal Once HD®" tvg-logo="https://canalonce.mx/images/logo-once-horizontal-blanco118-B-118x38.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Canal Once HD®
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="Canal Once HD®" tvg-logo="https://canalonce./images/logo-once-horizontal-blanco118-B-118x38.png" group-title="MÉXICO FHD",Canal Once HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/129040
-#EXTINF:-1 tvg-id="UniversalTVMexico.mx" tvg-name="MX || Canal U (Unicable) HD®" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8g_kPs-F3kKqQip4m_M4CqlvTDUAI6zDpRsRFKGzNvcjx3tXEWlZRqmcLC7D84dRKsx8&usqp=CAU" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Canal U (Unicable) HD®
+#EXTINF:-1 tvg-id="UniversalTVMexico." tvg-name="Canal U (Unicable) HD®" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8g_kPs-F3kKqQip4m_M4CqlvTDUAI6zDpRsRFKGzNvcjx3tXEWlZRqmcLC7D84dRKsx8&usqp=CAU" group-title="MÉXICO FHD",Canal U (Unicable) HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/129045
-#EXTINF:-1 tvg-id="8335" tvg-name="MX || CINE ESTELAR CE HD®" tvg-logo="https://www.tvrosat.com/logos/estelar[1].jpg" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || CINE ESTELAR CE HD®
+#EXTINF:-1 tvg-id="8335" tvg-name="CINE ESTELAR CE HD®" tvg-logo="https://www.tvrosat.com/logos/estelar[1].jpg" group-title="MÉXICO FHD",CINE ESTELAR CE HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/153565
-#EXTINF:-1 tvg-id="" tvg-name="MX || TV MAR PUERTO VALLARTA UHD®" tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/10/TV-Mar-en-vivo.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || TV MAR PUERTO VALLARTA UHD®
+#EXTINF:-1 tvg-id="" tvg-name="TV MAR PUERTO VALLARTA UHD®" tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/10/TV-Mar-en-vivo.png" group-title="MÉXICO FHD",TV MAR PUERTO VALLARTA UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/130024
-#EXTINF:-1 tvg-id="8335" tvg-name="MX || FILMEX UHD®" tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || FILMEX UHD®
+#EXTINF:-1 tvg-id="8335" tvg-name="FILMEX UHD®" tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="MÉXICO FHD",FILMEX UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/146598
-#EXTINF:-1 tvg-id="18140" tvg-name="MX || CURIOSITY UHD® " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CuriosityStreamBlack.svg/1200px-CuriosityStreamBlack.svg.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || CURIOSITY UHD® 
+#EXTINF:-1 tvg-id="18140" tvg-name="CURIOSITY UHD® " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CuriosityStreamBlack.svg/1200px-CuriosityStreamBlack.svg.png" group-title="MÉXICO FHD",CURIOSITY UHD® 
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/146597
-#EXTINF:-1 tvg-id="" tvg-name="MX || Canal del Congreso 45 TV SD®" tvg-logo="https://img2.freepng.es/20180331/rie/kisspng-drawing-garden-early-childhood-education-school-te-dia-de-la-mujer-5abfd776123951.6025993415225219740747.jpg" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Canal del Congreso 45 TV SD®
+#EXTINF:-1 tvg-id="" tvg-name="Canal del Congreso 45 TV SD®" tvg-logo="https://img2.freepng.es/20180331/rie/kisspng-drawing-garden-early-childhood-education-school-te-dia-de-la-mujer-5abfd776123951.6025993415225219740747.jpg" group-title="MÉXICO FHD",Canal del Congreso 45 TV SD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/146599
-#EXTINF:-1 tvg-id="" tvg-name="MX || EL HERALDO Noticias HD®" tvg-logo="https://i1.wp.com/digitalpolicylaw.com/wp-content/uploads/2020/02/dplnews_heraldo-tv_dn040220.jpg" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || EL HERALDO Noticias HD®
+#EXTINF:-1 tvg-id="" tvg-name="EL HERALDO Noticias HD®" tvg-logo="https://i1.wp.com/digitalpolicylaw.com/wp-content/uploads/2020/02/dplnews_heraldo-tv_dn040220.jpg" group-title="MÉXICO FHD",EL HERALDO Noticias HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/148883
-#EXTINF:-1 tvg-id="51456" tvg-name="MX || ESTRELLA GAMES UHD®" tvg-logo="https://w7.pngwing.com/pngs/284/591/png-transparent-estrella-tv-television-network-wgen-tv-ktnc-tv-j-balvin-television-text-public-relations.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || ESTRELLA GAMES UHD®
+#EXTINF:-1 tvg-id="51456" tvg-name="ESTRELLA GAMES UHD®" tvg-logo="https://w7.pngwing.com/pngs/284/591/png-transparent-estrella-tv-television-network-wgen-tv-ktnc-tv-j-balvin-television-text-public-relations.png" group-title="MÉXICO FHD",ESTRELLA GAMES UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/154742
-#EXTINF:-1 tvg-id="EstrellaTVEast.us" tvg-name="MX || ESTRELLA NEWS UHD®" tvg-logo="https://estrellatv.com/img/shows/noticias-estrellatv/logo.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || ESTRELLA NEWS UHD®
+#EXTINF:-1 tvg-id="EstrellaTVEast.us" tvg-name="ESTRELLA NEWS UHD®" tvg-logo="https://estrellatv.com/img/shows/noticias-estrellatv/logo.png" group-title="MÉXICO FHD",ESTRELLA NEWS UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/154743
-#EXTINF:-1 tvg-id="EstrellaTVEast.us" tvg-name="MX || ESTRELLATV UHD®" tvg-logo="https://www.pngitem.com/pimgs/m/146-1469268_estrella-tv-canal-8-hd-png-download.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || ESTRELLATV UHD®
+#EXTINF:-1 tvg-id="EstrellaTVEast.us" tvg-name="ESTRELLATV UHD®" tvg-logo="https://www.pngitem.com/pimgs/m/146-1469268_estrella-tv-canal-8-hd-png-download.png" group-title="MÉXICO FHD",ESTRELLATV UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/154741
-#EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-name="MX || EWTN HD®" tvg-logo="https://cdn.mitvstatic.com/channels/sv_ewtn_m.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || EWTN HD®
+#EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-name="EWTN HD®" tvg-logo="https://cdn.mitvstatic.com/channels/sv_ewtn_m.png" group-title="MÉXICO FHD",EWTN HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/130021
-#EXTINF:-1 tvg-id="ExcelsiorTV.mx" tvg-name="MX || EXCELSIOR TV UHD®" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Excelsior_TV_HD.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || EXCELSIOR TV UHD®
+#EXTINF:-1 tvg-id="ExcelsiorTV." tvg-name="EXCELSIOR TV UHD®" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Excelsior_TV_HD.png" group-title="MÉXICO FHD",EXCELSIOR TV UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/153574
-#EXTINF:-1 tvg-id="Foro.mx" tvg-name="MX || FORO TV MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || FORO TV MX UHD®
+#EXTINF:-1 tvg-id="Foro." tvg-name="FORO TV  UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="MÉXICO FHD",FORO TV  UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3748
-#EXTINF:-1 tvg-id="" tvg-name="MX || FUEL TV UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Fuel_TV.svg/1200px-Fuel_TV.svg.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || FUEL TV UHD®
+#EXTINF:-1 tvg-id="" tvg-name="FUEL TV UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Fuel_TV.svg/1200px-Fuel_TV.svg.png" group-title="MÉXICO FHD",FUEL TV UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/146600
-#EXTINF:-1 tvg-id="" tvg-name="MX || FUELTV HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Fuel_TV.svg/1200px-Fuel_TV.svg.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || FUELTV HD®
+#EXTINF:-1 tvg-id="" tvg-name="FUELTV HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Fuel_TV.svg/1200px-Fuel_TV.svg.png" group-title="MÉXICO FHD",FUELTV HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/146601
-#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-name="MX || GOLDEN EDGE HD®" tvg-logo="https://i.pinimg.com/originals/f3/1a/5a/f31a5a2c1dea7ab7ad9933feedc82d22.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || GOLDEN EDGE HD®
+#EXTINF:-1 tvg-id="GoldenEdgePanregional." tvg-name="GOLDEN EDGE HD®" tvg-logo="https://i.pinimg.com/originals/f3/1a/5a/f31a5a2c1dea7ab7ad9933feedc82d22.png" group-title="MÉXICO FHD",GOLDEN EDGE HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3647
-#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-name="MX || GOLDEN EDGE MX UHD®" tvg-logo="https://i.pinimg.com/originals/f3/1a/5a/f31a5a2c1dea7ab7ad9933feedc82d22.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || GOLDEN EDGE MX UHD®
+#EXTINF:-1 tvg-id="GoldenEdgePanregional." tvg-name="GOLDEN EDGE  UHD®" tvg-logo="https://i.pinimg.com/originals/f3/1a/5a/f31a5a2c1dea7ab7ad9933feedc82d22.png" group-title="MÉXICO FHD",GOLDEN EDGE  UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3762
-#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name="MX || GOLDEN MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || GOLDEN MX UHD®
+#EXTINF:-1 tvg-id="GoldenPanregional." tvg-name="GOLDEN  UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="MÉXICO FHD",GOLDEN  UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3761
-#EXTINF:-1 tvg-id="AMCMexico.mx" tvg-name="MX || IMAGEN TV MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/1280px-HD-TV_Logo.svg.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || IMAGEN TV MX UHD®
+#EXTINF:-1 tvg-id="AMCMexico." tvg-name="IMAGEN TV  UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/1280px-HD-TV_Logo.svg.png" group-title="MÉXICO FHD",IMAGEN TV  UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3767
-#EXTINF:-1 tvg-id="IngenioTV.mx" tvg-name="MX || Ingenio TV HD®" tvg-logo="https://www.tvcuatro.com/images/producciones/phpo3mmOC.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Ingenio TV HD®
+#EXTINF:-1 tvg-id="IngenioTV." tvg-name="Ingenio TV HD®" tvg-logo="https://www.tvcuatro.com/images/producciones/phpo3mmOC.png" group-title="MÉXICO FHD",Ingenio TV HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3654
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="MX || Las Estrellas HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Las_estrellas_2017.jpg" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Las Estrellas HD®
+#EXTINF:-1 tvg-id="LasEstrellas." tvg-name="Las Estrellas HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Las_estrellas_2017.jpg" group-title="MÉXICO FHD",Las Estrellas HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/129048
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="MX || Las Estrellas UHD® " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Las Estrellas UHD® 
+#EXTINF:-1 tvg-id="LasEstrellas." tvg-name="Las Estrellas UHD® " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MÉXICO FHD",Las Estrellas UHD® 
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3607
-#EXTINF:-1 tvg-id="" tvg-name="MX || Mexico LOBO TV HD®" tvg-logo="https://pbs.twimg.com/profile_images/1323320211567763462/zhDx0Q4G_400x400.jpg" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Mexico LOBO TV HD®
+#EXTINF:-1 tvg-id="" tvg-name="Mexico LOBO TV HD®" tvg-logo="https://pbs.twimg.com/profile_images/1323320211567763462/zhDx0Q4G_400x400.jpg" group-title="MÉXICO FHD",Mexico LOBO TV HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/154917
-#EXTINF:-1 tvg-id="TVMexiquense.mx" tvg-name="MX || MEXIQUENSE MX HD®" tvg-logo="https://rytvmx.s3.amazonaws.com/wpmedia/2020/07/14141848/logoNew.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || MEXIQUENSE MX HD®
+#EXTINF:-1 tvg-id="TVMexiquense." tvg-name="MEXIQUENSE  HD®" tvg-logo="https://rytv.s3.amazonaws.com/wpmedia/2020/07/14141848/logoNew.png" group-title="MÉXICO FHD",MEXIQUENSE  HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3657
-#EXTINF:-1 tvg-id="TVMexiquense.mx" tvg-name="MX || MEXIQUENSE UHD®" tvg-logo="https://cat.com.mx/wp-content/uploads/2018/02/2015_11_19_13_37_12_mexiquense.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || MEXIQUENSE UHD®
+#EXTINF:-1 tvg-id="TVMexiquense." tvg-name="MEXIQUENSE UHD®" tvg-logo="https://cat.com./wp-content/uploads/2018/02/2015_11_19_13_37_12_mexiquense.png" group-title="MÉXICO FHD",MEXIQUENSE UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3772
-#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-name="MX || MilenioTV UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/640px-Milenio_Television.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || MilenioTV UHD®
+#EXTINF:-1 tvg-id="MilenioTelevision." tvg-name="MilenioTV UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/640px-Milenio_Television.png" group-title="MÉXICO FHD",MilenioTV UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/130025
-#EXTINF:-1 tvg-id="" tvg-name="MX || Multimedios Laguna HD®" tvg-logo="https://asociacionale.org.mx/wp-content/uploads/2016/06/telediariodemultimedioslaguna-2.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Multimedios Laguna HD®
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios Laguna HD®" tvg-logo="https://asociacionale.org./wp-content/uploads/2016/06/telediariodemultimedioslaguna-2.png" group-title="MÉXICO FHD",Multimedios Laguna HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/130027
-#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="MX || MULTIMEDIOS PLUS MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || MULTIMEDIOS PLUS MX UHD®
+#EXTINF:-1 tvg-id="MultimediosPlus." tvg-name="MULTIMEDIOS PLUS  UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MÉXICO FHD",MULTIMEDIOS PLUS  UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/129042
-#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="MX || MULTIMEDIOS UHD®" tvg-logo="https://img2.pngio.com/grupo-multimedios-media-ownership-monitor-grupo-multimedios-png-310_222.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || MULTIMEDIOS UHD®
+#EXTINF:-1 tvg-id="MultimediosPlus." tvg-name="MULTIMEDIOS UHD®" tvg-logo="https://img2.pngio.com/grupo-multimedios-media-ownership-monitor-grupo-multimedios-png-310_222.png" group-title="MÉXICO FHD",MULTIMEDIOS UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3775
-#EXTINF:-1 tvg-id="Panico.mx" tvg-name="MX || PANICO UHD®" tvg-logo="https://w7.pngwing.com/pngs/348/152/png-transparent-panico-television-channel-mexico-panic-starry-internet-television-text-logo-thumbnail.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || PANICO UHD®
+#EXTINF:-1 tvg-id="Panico." tvg-name="PANICO UHD®" tvg-logo="https://w7.pngwing.com/pngs/348/152/png-transparent-panico-television-channel-mexico-panic-starry-internet-television-text-logo-thumbnail.png" group-title="MÉXICO FHD",PANICO UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/146602
-#EXTINF:-1 tvg-id="I1.24519.schedulesdirect.org" tvg-name="MX || Sistema Michoacano HD®" tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/Logo-RTQ-BLanco-1.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Sistema Michoacano HD®
+#EXTINF:-1 tvg-id="I1.24519.schedulesdirect.org" tvg-name="Sistema Michoacano HD®" tvg-logo="https://www.rtq./wp-content/uploads/2022/03/Logo-RTQ-BLanco-1.png" group-title="MÉXICO FHD",Sistema Michoacano HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/130028
-#EXTINF:-1 tvg-id="51456" tvg-name="MX || RUSIA TODAY RT HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/1200px-Russia-Today-Logo.svg.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || RUSIA TODAY RT HD®
+#EXTINF:-1 tvg-id="51456" tvg-name="RUSIA TODAY RT HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/1200px-Russia-Today-Logo.svg.png" group-title="MÉXICO FHD",RUSIA TODAY RT HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/150362
-#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="MX || TELEFORMULA MX UHD®" tvg-logo="https://selectra.mx/sites/default/files/images/logos/teleformula-350x183.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || TELEFORMULA MX UHD®
+#EXTINF:-1 tvg-id="TeleFormula." tvg-name="TELEFORMULA  UHD®" tvg-logo="https://selectra./sites/default/files/images/logos/teleformula-350x183.png" group-title="MÉXICO FHD",TELEFORMULA  UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3747
-#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="MX || TELEFORMULA HD®" tvg-logo="https://pbs.twimg.com/media/C9y4NqyWAAsrepN.jpg" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || TELEFORMULA HD®
+#EXTINF:-1 tvg-id="TeleFormula." tvg-name="TELEFORMULA HD®" tvg-logo="https://pbs.twimg.com/media/C9y4NqyWAAsrepN.jpg" group-title="MÉXICO FHD",TELEFORMULA HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/130031
-#EXTINF:-1 tvg-id="" tvg-name="MX || TeleMax UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Telemax_2022.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || TeleMax UHD®
+#EXTINF:-1 tvg-id="" tvg-name="TeleMax UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Telemax_2022.png" group-title="MÉXICO FHD",TeleMax UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/130033
-#EXTINF:-1 tvg-id="XEFBTDT.mx" tvg-name="MX || TELEVISA MEXICALI HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/XHGTV.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || TELEVISA MEXICALI HD®
+#EXTINF:-1 tvg-id="XEFBTDT." tvg-name="TELEVISA MEXICALI HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/XHGTV.png" group-title="MÉXICO FHD",TELEVISA MEXICALI HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/149214
-#EXTINF:-1 tvg-id="XEFBTDT.mx" tvg-name="MX || Televisa Monterrey HD®" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Televisa Monterrey HD®
+#EXTINF:-1 tvg-id="XEFBTDT." tvg-name="Televisa Monterrey HD®" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png" group-title="MÉXICO FHD",Televisa Monterrey HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/129044
-#EXTINF:-1 tvg-id="XEFBTDT.mx" tvg-name="MX || Televisa Puebla HD®" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Puebla-en-vivo-Online.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Televisa Puebla HD®
+#EXTINF:-1 tvg-id="XEFBTDT." tvg-name="Televisa Puebla HD®" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Puebla-en-vivo-Online.png" group-title="MÉXICO FHD",Televisa Puebla HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/129043
-#EXTINF:-1 tvg-id="XEFBTDT.mx" tvg-name="MX || ULTRA TV Puebla UHD®" tvg-logo="https://userscontent2.emaze.com/images/5a3fd702-28dd-40ac-9b4a-21206a7c2b64/635428638432009405_televisalogo.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || ULTRA TV Puebla UHD®
+#EXTINF:-1 tvg-id="XEFBTDT." tvg-name="ULTRA TV Puebla UHD®" tvg-logo="https://userscontent2.emaze.com/images/5a3fd702-28dd-40ac-9b4a-21206a7c2b64/635428638432009405_televisalogo.png" group-title="MÉXICO FHD",ULTRA TV Puebla UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3799
-#EXTINF:-1 tvg-id="" tvg-name="MX || UMTV (Montemorelos) HD®" tvg-logo="https://umtv.mx/wp-content/uploads/2023/01/UMtvBlanco1.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || UMTV (Montemorelos) HD®
+#EXTINF:-1 tvg-id="" tvg-name="UMTV (Montemorelos) HD®" tvg-logo="https://umtv./wp-content/uploads/2023/01/UMtvBlanco1.png" group-title="MÉXICO FHD",UMTV (Montemorelos) HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3679
-#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="MX || Nuevo León Canal 28 HD®" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-28-Chihuahua-en-vivo-Online.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || Nuevo León Canal 28 HD®
+#EXTINF:-1 tvg-id="TVUNAM." tvg-name="Nuevo León Canal 28 HD®" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-28-Chihuahua-en-vivo-Online.png" group-title="MÉXICO FHD",Nuevo León Canal 28 HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/149449
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="MX || UMTV UHD®" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/umtv.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || UMTV UHD®
+#EXTINF:-1 tvg-id="ADN40." tvg-name="UMTV UHD®" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/umtv.png" group-title="MÉXICO FHD",UMTV UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/152948
-#EXTINF:-1 tvg-id="8335" tvg-name="MX || TELEMUNDO NOTICIAS HD®" tvg-logo="https://seeklogo.com/images/U/univision-noticias-logo-10987FEBCB-seeklogo.com.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || TELEMUNDO NOTICIAS HD®
+#EXTINF:-1 tvg-id="8335" tvg-name="TELEMUNDO NOTICIAS HD®" tvg-logo="https://seeklogo.com/images/U/univision-noticias-logo-10987FEBCB-seeklogo.com.png" group-title="MÉXICO FHD",TELEMUNDO NOTICIAS HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/153437
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="MX || UnoTV UHD®" tvg-logo="https://w1.pngwing.com/pngs/404/240/png-transparent-tv-logo-azteca-uno-tv-azteca-az-mundo-television-las-estrellas-text.png" group-title="⭐⭐️¡VIVA México!⭐️⭐",MX || UnoTV UHD®
+#EXTINF:-1 tvg-id="AztecaUno." tvg-name="UnoTV UHD®" tvg-logo="https://w1.pngwing.com/pngs/404/240/png-transparent-tv-logo-azteca-uno-tv-azteca-az-mundo-television-las-estrellas-text.png" group-title="MÉXICO FHD",UnoTV UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/130034
