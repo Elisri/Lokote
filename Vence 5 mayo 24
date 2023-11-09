@@ -67,7 +67,7 @@ http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3718
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/130023
 #EXTINF:-1 tvg-id="Canal5." tvg-name="Canal 5 HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/827px-Canal_5_Mexico_logo_2014.svg.png" group-title="MÉXICO FHD",Canal 5 HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/129037
-#EXTINF:-1 tvg-id="Canal5." tvg-name="CANAL 5 UHD®" tvg-logo="https://www.pandaancha./plds/articulos/froala/XHGC-TV_2014_HD-253x199-151761682.png" group-title="MÉXICO FHD",CANAL 5 UHD®
+#EXTINF:0 tvg-id="Canal5." tvg-name="CANAL 5 UHD®" tvg-logo="https://www.pandaancha./plds/articulos/froala/XHGC-TV_2014_HD-253x199-151761682.png" group-title="MÉXICO FHD",CANAL 5 UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3719
 #EXTINF:-1 tvg-id="" tvg-name="Canal 8 HD®" tvg-logo="https://img2.freepng.es/20180617/qca/kisspng-canal-8-television-channel-tl-loisirs-live-tel-telenica-canal-8-5b26d0290d70b6.0796160815292703130551.jpg" group-title="MÉXICO FHD",Canal 8 HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/129038
