@@ -1,4 +1,4 @@
-#EXTM3U
+I#EXTM3U
 #EXTINF:-1 tvg-id="APlus." tvg-name="A + 7.2 HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/1200px-Logo_a%2B_%28canal%29.svg.png" group-title="MÉXICO FHD",A + 7.2 HD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3668
 #EXTINF:-1 tvg-id="APlus." tvg-name="A+ 7.2 UHD®" tvg-logo="https://tvazteca.brightspotcdn.com/c1/59/8bfec2044396b3519784ef411d21/logo-pag-bn..png" group-title="MÉXICO FHD",A+ 7.2 UHD®
@@ -173,3 +173,118 @@ http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/152948
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/153437
 #EXTINF:-1 tvg-id="AztecaUno." tvg-name="UnoTV UHD®" tvg-logo="https://w1.pngwing.com/pngs/404/240/png-transparent-tv-logo-azteca-uno-tv-azteca-az-mundo-television-las-estrellas-text.png" group-title="MÉXICO FHD",UnoTV UHD®
 http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/130034
+#EXTINF:-1 tvg-id="AXNPacific.us" tvg-name=": AXN MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title=": CINE MEXICO FHD",: AXN MX UHD®
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3602
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name=": A3 SERIES UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" group-title=": CINE MEXICO FHD",: A3 SERIES UHD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3698
+#EXTINF:-1 tvg-id="AXNPacific.us" tvg-name=": AXN HD (5MB)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png" group-title=": ",: AXN HD (5MB)
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3704
+#EXTINF:-1 tvg-id="Azma.mx" tvg-name=": Az ma MX UHD®" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-ma_m.png" group-title=": CINE MEXICO FHD",: Az ma MX UHD®
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3706
+#EXTINF:-1 tvg-id="canalEast.us" tvg-name=": CANAL HD" tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png" group-title=": CINE MEXICO FHD",: CANAL HD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3724
+#EXTINF:-1 tvg-id="maxPanregional.us" tvg-name=": MAX HD" tvg-logo="https://www.pngitem.com/pimgs/m/287-2873753_logo-max-a-max-2-v-nov-podob.png" group-title=": CINE MEXICO FHD",: MAX HD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3725
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name=": DE PELICULA MX UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title=": CINE MEXICO FHD",: DE PELICULA MX UHD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3729
+#EXTINF:-1 tvg-id="DePeliculaHDLatinAmerica.mx" tvg-name=": DE PELICULA + UHD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula-hd_m.png" group-title=": CINE MEXICO FHD",: DE PELICULA + UHD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3730
+#EXTINF:-1 tvg-id="FilmArtsPanregional.us" tvg-name=": FILM&ARTS HD" tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/08/Logo-Film-Arts-1.png" group-title=": CINE MEXICO FHD",: FILM&ARTS HD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3745
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name=": UNIVERSAL REALITY MX UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png" group-title=": CINE MEXICO FHD",: UNIVERSAL REALITY MX UHD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3750
+#EXTINF:-1 tvg-id="SmithsonianChannelEast.us" tvg-name=": Smithsonian Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_ma_2020.svg/1024px-Star_ma_2020.svg.png" group-title=": CINE MEXICO FHD",: Smithsonian Channel HD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3751
+#EXTINF:-1 tvg-id="" tvg-name=": STAR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/640px-Star_Classics_2020.svg.png" group-title=": CINE MEXICO FHD",: STAR HD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3752
+#EXTINF:-1 tvg-id="StarLifeMexico.mx" tvg-name=": LIFETIME HQ" tvg-logo="https://static.wixstatic.com/media/b2d8de_882bb20732ef4b5791acf83a49cfda36~mv2.png/v1/fill/w_476,h_144,al_c,q_95,enc_auto/Logo_Lifetime_2020.png" group-title=": CINE MEXICO FHD",: LIFETIME HQ
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3753
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name=": UNIVERSAL PREMIER UHD" tvg-logo="https://www.pngitem.com/pimgs/m/3-33641_star-movies-logo-star-movies-logo-png-transparent.png" group-title=": CINE MEXICO FHD",: UNIVERSAL PREMIER UHD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3754
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name=": UNIVERSAL PREMIER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Star_Series_2021.png/800px-Star_Series_2021.png" group-title=": CINE MEXICO FHD",: UNIVERSAL PREMIER HD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3756
+#EXTINF:-1 tvg-id="" tvg-name=": UNIVERSAL MA UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/800px-Star_Comedy_2020.svg.png" group-title=": CINE MEXICO FHD",: UNIVERSAL MA UHD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3757
+#EXTINF:-1 tvg-id="" tvg-name=": UNIVERSAL CRIME UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png" group-title=": CINE MEXICO FHD",: UNIVERSAL CRIME UHD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3758
+#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-name=": Golden Plus MX UHD®" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title=": CINE MEXICO FHD",: Golden Plus MX UHD®
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3763
+#EXTINF:-1 tvg-id="StudioUniversalMexico.mx" tvg-name=": STUDIO UNIVERSAL HD" tvg-logo="https://i.pinimg.com/originals/49/81/6a/49816a3abc55802c1442d81bd8498ca7.png" group-title=": CINE MEXICO FHD",: STUDIO UNIVERSAL HD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/3793
+#EXTINF:-1 tvg-id="AEPanregional.us" tvg-name=": A&E MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png" group-title=": CINE MEXICO FHD",: A&E MX UHD®
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7965
+#EXTINF:-1 tvg-id="AMCMexico.mx" tvg-name=": AMC MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title=": CINE MEXICO FHD",: AMC MX UHD®
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7966
+#EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-name=": PARAMOUNT NETWORK MX HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Paramount_Paramount_Network.png" group-title=": CINE MEXICO FHD",: PARAMOUNT NETWORK MX HD®
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7967
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name=": HBO MUNDI UHD" tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbo-mundi.png" group-title=": CINE MEXICO FHD",: HBO MUNDI UHD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7968
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name=": HBO POP UHD" tvg-logo="https://iconape.com/wp-content/files/bc/122593/png/HBO_Pop.png" group-title=": CINE MEXICO FHD",: HBO POP UHD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7969
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name=": HBO SIGNATURE UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title=": CINE MEXICO FHD",: HBO SIGNATURE UHD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7970
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name=": HBO XTREME HD" tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title=": CINE MEXICO FHD",: HBO XTREME HD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7971
+#EXTINF:-1 tvg-id="canalEast.us" tvg-name=": CANAL HD (5MB)" tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png" group-title=": CINE MEXICO FHD",: CANAL HD (5MB)
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7972
+#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name=":  CLASICO BOM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title=": CINE MEXICO FHD",:  CLASICO BOM HD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7973
+#EXTINF:-1 tvg-id="StarLifeMexico.mx" tvg-name=": HBO XTREME HD (5MB)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title=": CINE MEXICO FHD",: HBO XTREME HD (5MB)
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7975
+#EXTINF:-1 tvg-id="FilmArtsPanregional.us" tvg-name=": FILM&ARTS HD (5MB)" tvg-logo="https://www.pngitem.com/pimgs/m/6-61000_film-and-arts-hd-png-download.png" group-title=": CINE MEXICO FHD",: FILM&ARTS HD (5MB)
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7976
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name=": GOLDEN UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Golden_hd.png" group-title=": CINE MEXICO FHD",: GOLDEN UHD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7977
+#EXTINF:-1 tvg-id="SyfyPanregional.us" tvg-name=": SYFY UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Syfy-HD-Logo.svg/1280px-Syfy-HD-Logo.svg.png" group-title=": CINE MEXICO FHD",: SYFY UHD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7978
+#EXTINF:-1 tvg-id="StudioUniversalMexico.mx" tvg-name=": STUDIO UNIVERSAL HD (5MB)" tvg-logo="https://i.pinimg.com/originals/49/81/6a/49816a3abc55802c1442d81bd8498ca7.png" group-title=": CINE MEXICO FHD",: STUDIO UNIVERSAL HD (5MB)
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7979
+#EXTINF:-1 tvg-id="UniversalTVMexico.mx" tvg-name=": UNIVERSAL CHANNEL MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_Universal_Channel_HD.svg/1280px-Logo_Universal_Channel_HD.svg.png" group-title=": CINE MEXICO FHD",: UNIVERSAL CHANNEL MX UHD®
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7980
+#EXTINF:-1 tvg-id="WarnerChannelMexico.mx" tvg-name=": WARNER CHANNEL UHD" tvg-logo="https://assets.stickpng.com/images/58483b6d84e35b574e745381.png" group-title=": CINE MEXICO FHD",: WARNER CHANNEL UHD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7981
+#EXTINF:-1 tvg-id="SpaceMexico.mx" tvg-name=": SPACE MX UHD®" tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title=": CINE MEXICO FHD",: SPACE MX UHD®
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7982
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name=": HBO UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title=": CINE MEXICO FHD",: HBO UHD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7983
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name=": HBO FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title=": CINE MEXICO FHD",: HBO FAMILY HD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7984
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name=": HBO MUNDI UHD" tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbo-mundi.png" group-title=": CINE MEXICO FHD",: HBO MUNDI UHD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7985
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name=": HBO PLUS UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title=": CINE MEXICO FHD",: HBO PLUS UHD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7986
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name=": DISCOVERY THEATER UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title=": CINE MEXICO FHD",: DISCOVERY THEATER UHD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7987
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name=": EUROPA EUROPA MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title=": CINE MEXICO FHD",: EUROPA EUROPA MX UHD®
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7988
+#EXTINF:-1 tvg-id="maxPanregional.us" tvg-name=": MAX HD (5MB)" tvg-logo="https://www.pngitem.com/pimgs/m/287-2873753_logo-max-a-max-2-v-nov-podob.png" group-title=": CINE MEXICO FHD",: MAX HD (5MB)
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7989
+#EXTINF:-1 tvg-id="" tvg-name=": UNIVERSAL REALITY (5MB)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/1200px-Fox_Action_Movies_logo.svg.png" group-title=": CINE MEXICO FHD",: UNIVERSAL REALITY (5MB)
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7990
+#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name=": STAR CHANNEL UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_ma_2020.svg/1200px-Star_ma_2020.svg.png" group-title=": CINE MEXICO FHD",: STAR CHANNEL UHD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7991
+#EXTINF:-1 tvg-id="" tvg-name=": STAR COMEDY HD (5MB)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/1280px-Star_Comedy_2020.svg.png" group-title=": CINE MEXICO FHD",: STAR COMEDY HD (5MB)
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7993
+#EXTINF:-1 tvg-id="" tvg-name=": STAR FAMILY UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png" group-title=": CINE MEXICO FHD",: STAR FAMILY UHD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7994
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-name=": SONY MX UHD®" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2018/09/sony-4k-hdr-ultra-hd-vector-logo.png" group-title=": CINE MEXICO FHD",: SONY MX UHD®
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7997
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name=": GOLDEN MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Golden_hd.png" group-title=": CINE MEXICO FHD",: GOLDEN MX UHD®
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7998
+#EXTINF:-1 tvg-id="TNTSeriesMexico.mx" tvg-name=": TNT SERIES MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TNT_Serie_HD_Logo_2016.png" group-title=": CINE MEXICO FHD",: TNT SERIES MX UHD®
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/7999
+#EXTINF:-1 tvg-id="FXMWest.us" tvg-name=": FXM MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title=": CINE MEXICO FHD",: FXM MX UHD®
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/136486
+#EXTINF:-1 tvg-id="TNTMexico.mx" tvg-name=": TNT MX HD" tvg-logo="https://logoeps.com/wp-content/uploads/2013/05/tnt-eps-vector-logo.png" group-title=": CINE MEXICO FHD",: TNT MX HD
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/138044
+#EXTINF:-1 tvg-id="AMCMexico.mx" tvg-name=": AMC HD (5MB)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title=": CINE MEXICO FHD",: AMC HD (5MB)
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/138047
+#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name=": STAR CHANNEL HD (5MB)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_ma_2020.svg/1200px-Star_ma_2020.svg.png" group-title=": CINE MEXICO FHD",: STAR CHANNEL HD (5MB)
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/138098
+#EXTINF:-1 tvg-id="" tvg-name=": MOVISTAR SERIES HD (5MB)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Star_Series_2021.png" group-title=": CINE MEXICO FHD",: MOVISTAR SERIES HD (5MB)
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/138101
+#EXTINF:-1 tvg-id="AEPanregional.us" tvg-name=": A&E HD (5MB)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title=": CINE MEXICO FHD",: A&E HD (5MB)
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/138105
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name=": SONY HD (5MB)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sony_Channel_latam_logo.svg/1200px-Sony_Channel_latam_logo.svg.png" group-title=": CINE MEXICO FHD",: SONY HD (5MB)
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/138106
+
